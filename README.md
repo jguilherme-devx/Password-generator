@@ -9,7 +9,7 @@ incluem numeros
 
 ## exemplo de como fica no terminal
 
-'''bash
+''' bash
 Gerador de senhas automaticas
 gerando senha...
 senha: gvZKdy94Gzfg
